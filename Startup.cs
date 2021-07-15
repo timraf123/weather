@@ -59,6 +59,9 @@ namespace Core1
     {
         public Startup(IConfiguration configuration)
         {
+
+            // test comment 2
+            // test comment
             Configuration = configuration;
         }
 
