@@ -1,1 +1,6 @@
-test.cs
+namespace Core1
+{
+    public class test
+    {
+    }
+}
