@@ -15,7 +15,7 @@ namespace Core1
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
-        // test again
+        // test again again
         }  
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
